@@ -1,0 +1,2 @@
+Invoking command in '/home/yy/ros2_learning/interface_cpp/build/example_ros2_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/yy/ros2_learning/interface_cpp/build/example_ros2_interfaces -- -j12 -l12
+Invoked command in '/home/yy/ros2_learning/interface_cpp/build/example_ros2_interfaces' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/yy/ros2_learning/interface_cpp/build/example_ros2_interfaces -- -j12 -l12

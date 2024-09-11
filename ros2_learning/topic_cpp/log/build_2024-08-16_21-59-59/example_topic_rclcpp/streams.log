@@ -1,0 +1,52 @@
+[0.007s] Invoking command in '/home/yy/ros2_learning/topic_cpp/build/example_topic_rclcpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/yy/ros2_learning/topic_cpp/build/example_topic_rclcpp -- -j12 -l12
+[0.037s] [35m[1mConsolidate compiler generated dependencies of target topic_subscribe_01[0m
+[0.047s] [ 50%] Built target topic_publisher_01
+[0.052s] [ 75%] [32mBuilding CXX object CMakeFiles/topic_subscribe_01.dir/src/topic_subscribe_01.cpp.o[0m
+[1.391s] In file included from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/logging.hpp:24[m[K,
+[1.391s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/client.hpp:40[m[K,
+[1.391s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/callback_group.hpp:24[m[K,
+[1.391s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/any_executable.hpp:20[m[K,
+[1.391s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/memory_strategy.hpp:25[m[K,
+[1.391s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/memory_strategies.hpp:18[m[K,
+[1.391s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executor_options.hpp:20[m[K,
+[1.391s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executor.hpp:37[m[K,
+[1.391s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors/multi_threaded_executor.hpp:25[m[K,
+[1.391s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors.hpp:21[m[K,
+[1.392s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/rclcpp.hpp:155[m[K,
+[1.392s]                  from [01m[K/home/yy/ros2_learning/topic_cpp/src/example_topic_rclcpp/src/topic_subscribe_01.cpp:1[m[K:
+[1.392s] [01m[K/home/yy/ros2_learning/topic_cpp/src/example_topic_rclcpp/src/topic_subscribe_01.cpp:[m[K In member function ‘[01m[Kvoid TopicSubscribe01::command_callback(std_msgs::msg::String_<std::allocator<void> >::SharedPtr)[m[K’:
+[1.392s] [01m[K/home/yy/ros2_learning/topic_cpp/src/example_topic_rclcpp/src/topic_subscribe_01.cpp:26:45:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 6 has type ‘[01m[Kdouble[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wformat=-Wformat=]8;;[m[K]
+[1.392s]    26 |             RCLCPP_INFO(this->get_logger(), [01;35m[K"收到[%s]指令[%s]次,发送速度 %f"[m[K, msg->data.c_str(),[32m[Kcnt[m[K,speed);
+[1.392s]       |                                             [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K                    [32m[K~~~[m[K
+[1.392s]       |                                                                                                 [32m[K|[m[K
+[1.392s]       |                                                                                                 [32m[Kdouble[m[K
+[1.392s] [01m[K/home/yy/ros2_learning/topic_cpp/src/example_topic_rclcpp/src/topic_subscribe_01.cpp:26:60:[m[K [01;36m[Knote: [m[Kformat string is defined here
+[1.392s]    26 |             RCLCPP_INFO(this->get_logger(), "收到[%s]指令[[01;36m[K%s[m[K]次,发送速度 %f", msg->data.c_str(),cnt,speed);
+[1.392s]       |                                                           [01;36m[K~^[m[K
+[1.392s]       |                                                            [01;36m[K|[m[K
+[1.392s]       |                                                            [01;36m[Kchar*[m[K
+[1.392s]       |                                                           [32m[K%f[m[K
+[4.740s] [100%] [32m[1mLinking CXX executable topic_subscribe_01[0m
+[4.980s] [100%] Built target topic_subscribe_01
+[4.990s] Invoked command in '/home/yy/ros2_learning/topic_cpp/build/example_topic_rclcpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/yy/ros2_learning/topic_cpp/build/example_topic_rclcpp -- -j12 -l12
+[5.021s] Invoking command in '/home/yy/ros2_learning/topic_cpp/build/example_topic_rclcpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/yy/ros2_learning/topic_cpp/build/example_topic_rclcpp
+[5.027s] -- Install configuration: ""
+[5.027s] -- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/ament_index/resource_index/package_run_dependencies/example_topic_rclcpp
+[5.027s] -- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/ament_index/resource_index/parent_prefix_path/example_topic_rclcpp
+[5.027s] -- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/environment/ament_prefix_path.sh
+[5.027s] -- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/environment/ament_prefix_path.dsv
+[5.027s] -- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/environment/path.sh
+[5.027s] -- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/environment/path.dsv
+[5.027s] -- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/local_setup.bash
+[5.027s] -- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/local_setup.sh
+[5.028s] -- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/local_setup.zsh
+[5.028s] -- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/local_setup.dsv
+[5.028s] -- Installing: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/package.dsv
+[5.028s] -- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/ament_index/resource_index/packages/example_topic_rclcpp
+[5.028s] -- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/cmake/example_topic_rclcppConfig.cmake
+[5.028s] -- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/cmake/example_topic_rclcppConfig-version.cmake
+[5.028s] -- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/package.xml
+[5.028s] -- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/lib/example_topic_rclcpp/topic_publisher_01
+[5.028s] -- Installing: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/lib/example_topic_rclcpp/topic_subscribe_01
+[5.031s] -- Set runtime path of "/home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/lib/example_topic_rclcpp/topic_subscribe_01" to ""
+[5.033s] Invoked command in '/home/yy/ros2_learning/topic_cpp/build/example_topic_rclcpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/yy/ros2_learning/topic_cpp/build/example_topic_rclcpp

@@ -1,0 +1,26 @@
+[0.006s] Invoking command in '/home/yy/code/hello_world/build/pkg_01_helloworld_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/yy/code/hello_world/build/pkg_01_helloworld_cpp -- -j12 -l12
+[0.031s] [35m[1mConsolidate compiler generated dependencies of target helloworld[0m
+[0.037s] [ 50%] [32mBuilding CXX object CMakeFiles/helloworld.dir/src/helloworld.cpp.o[0m
+[1.686s] [100%] [32m[1mLinking CXX executable helloworld[0m
+[1.752s] [100%] Built target helloworld
+[1.759s] Invoked command in '/home/yy/code/hello_world/build/pkg_01_helloworld_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/yy/code/hello_world/build/pkg_01_helloworld_cpp -- -j12 -l12
+[1.777s] Invoking command in '/home/yy/code/hello_world/build/pkg_01_helloworld_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/yy/code/hello_world/build/pkg_01_helloworld_cpp
+[1.782s] -- Install configuration: ""
+[1.782s] -- Installing: /home/yy/code/hello_world/install/pkg_01_helloworld_cpp/lib/pkg_01_helloworld_cpp/helloworld
+[1.783s] -- Set runtime path of "/home/yy/code/hello_world/install/pkg_01_helloworld_cpp/lib/pkg_01_helloworld_cpp/helloworld" to ""
+[1.783s] -- Up-to-date: /home/yy/code/hello_world/install/pkg_01_helloworld_cpp/share/ament_index/resource_index/package_run_dependencies/pkg_01_helloworld_cpp
+[1.783s] -- Up-to-date: /home/yy/code/hello_world/install/pkg_01_helloworld_cpp/share/ament_index/resource_index/parent_prefix_path/pkg_01_helloworld_cpp
+[1.783s] -- Up-to-date: /home/yy/code/hello_world/install/pkg_01_helloworld_cpp/share/pkg_01_helloworld_cpp/environment/ament_prefix_path.sh
+[1.783s] -- Up-to-date: /home/yy/code/hello_world/install/pkg_01_helloworld_cpp/share/pkg_01_helloworld_cpp/environment/ament_prefix_path.dsv
+[1.783s] -- Up-to-date: /home/yy/code/hello_world/install/pkg_01_helloworld_cpp/share/pkg_01_helloworld_cpp/environment/path.sh
+[1.783s] -- Up-to-date: /home/yy/code/hello_world/install/pkg_01_helloworld_cpp/share/pkg_01_helloworld_cpp/environment/path.dsv
+[1.783s] -- Up-to-date: /home/yy/code/hello_world/install/pkg_01_helloworld_cpp/share/pkg_01_helloworld_cpp/local_setup.bash
+[1.783s] -- Up-to-date: /home/yy/code/hello_world/install/pkg_01_helloworld_cpp/share/pkg_01_helloworld_cpp/local_setup.sh
+[1.783s] -- Up-to-date: /home/yy/code/hello_world/install/pkg_01_helloworld_cpp/share/pkg_01_helloworld_cpp/local_setup.zsh
+[1.783s] -- Up-to-date: /home/yy/code/hello_world/install/pkg_01_helloworld_cpp/share/pkg_01_helloworld_cpp/local_setup.dsv
+[1.783s] -- Up-to-date: /home/yy/code/hello_world/install/pkg_01_helloworld_cpp/share/pkg_01_helloworld_cpp/package.dsv
+[1.783s] -- Up-to-date: /home/yy/code/hello_world/install/pkg_01_helloworld_cpp/share/ament_index/resource_index/packages/pkg_01_helloworld_cpp
+[1.783s] -- Up-to-date: /home/yy/code/hello_world/install/pkg_01_helloworld_cpp/share/pkg_01_helloworld_cpp/cmake/pkg_01_helloworld_cppConfig.cmake
+[1.783s] -- Up-to-date: /home/yy/code/hello_world/install/pkg_01_helloworld_cpp/share/pkg_01_helloworld_cpp/cmake/pkg_01_helloworld_cppConfig-version.cmake
+[1.783s] -- Up-to-date: /home/yy/code/hello_world/install/pkg_01_helloworld_cpp/share/pkg_01_helloworld_cpp/package.xml
+[1.784s] Invoked command in '/home/yy/code/hello_world/build/pkg_01_helloworld_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/yy/code/hello_world/build/pkg_01_helloworld_cpp

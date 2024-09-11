@@ -1,0 +1,2 @@
+Invoking command in '/home/yy/ros2_learning/talksay/build/talksay_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/yy/ros2_learning/talksay/src/talksay_cpp -DCMAKE_INSTALL_PREFIX=/home/yy/ros2_learning/talksay/install/talksay_cpp
+Invoked command in '/home/yy/ros2_learning/talksay/build/talksay_cpp' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/yy/ros2_learning/talksay/src/talksay_cpp -DCMAKE_INSTALL_PREFIX=/home/yy/ros2_learning/talksay/install/talksay_cpp

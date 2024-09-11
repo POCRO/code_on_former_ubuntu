@@ -1,0 +1,29 @@
+[0.009s] Invoking command in '/home/yy/ros2_learning/service_cpp/build/example_service_rclcpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/yy/ros2_learning/service_cpp/build/example_service_rclcpp -- -j12 -l12
+[0.042s] [35m[1mConsolidate compiler generated dependencies of target service_client_01[0m
+[0.043s] [35m[1mConsolidate compiler generated dependencies of target service_server_01[0m
+[0.054s] [ 25%] [32mBuilding CXX object CMakeFiles/service_server_01.dir/src/service_server_01.cpp.o[0m
+[0.054s] [ 75%] Built target service_client_01
+[2.012s] [100%] [32m[1mLinking CXX executable service_server_01[0m
+[2.111s] [100%] Built target service_server_01
+[2.122s] Invoked command in '/home/yy/ros2_learning/service_cpp/build/example_service_rclcpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/yy/ros2_learning/service_cpp/build/example_service_rclcpp -- -j12 -l12
+[2.151s] Invoking command in '/home/yy/ros2_learning/service_cpp/build/example_service_rclcpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/yy/ros2_learning/service_cpp/build/example_service_rclcpp
+[2.156s] -- Install configuration: ""
+[2.156s] -- Up-to-date: /home/yy/ros2_learning/service_cpp/install/example_service_rclcpp/share/ament_index/resource_index/package_run_dependencies/example_service_rclcpp
+[2.156s] -- Up-to-date: /home/yy/ros2_learning/service_cpp/install/example_service_rclcpp/share/ament_index/resource_index/parent_prefix_path/example_service_rclcpp
+[2.156s] -- Up-to-date: /home/yy/ros2_learning/service_cpp/install/example_service_rclcpp/share/example_service_rclcpp/environment/ament_prefix_path.sh
+[2.156s] -- Up-to-date: /home/yy/ros2_learning/service_cpp/install/example_service_rclcpp/share/example_service_rclcpp/environment/ament_prefix_path.dsv
+[2.156s] -- Up-to-date: /home/yy/ros2_learning/service_cpp/install/example_service_rclcpp/share/example_service_rclcpp/environment/path.sh
+[2.156s] -- Up-to-date: /home/yy/ros2_learning/service_cpp/install/example_service_rclcpp/share/example_service_rclcpp/environment/path.dsv
+[2.156s] -- Up-to-date: /home/yy/ros2_learning/service_cpp/install/example_service_rclcpp/share/example_service_rclcpp/local_setup.bash
+[2.156s] -- Up-to-date: /home/yy/ros2_learning/service_cpp/install/example_service_rclcpp/share/example_service_rclcpp/local_setup.sh
+[2.156s] -- Up-to-date: /home/yy/ros2_learning/service_cpp/install/example_service_rclcpp/share/example_service_rclcpp/local_setup.zsh
+[2.156s] -- Up-to-date: /home/yy/ros2_learning/service_cpp/install/example_service_rclcpp/share/example_service_rclcpp/local_setup.dsv
+[2.156s] -- Installing: /home/yy/ros2_learning/service_cpp/install/example_service_rclcpp/share/example_service_rclcpp/package.dsv
+[2.156s] -- Up-to-date: /home/yy/ros2_learning/service_cpp/install/example_service_rclcpp/share/ament_index/resource_index/packages/example_service_rclcpp
+[2.156s] -- Up-to-date: /home/yy/ros2_learning/service_cpp/install/example_service_rclcpp/share/example_service_rclcpp/cmake/example_service_rclcppConfig.cmake
+[2.156s] -- Up-to-date: /home/yy/ros2_learning/service_cpp/install/example_service_rclcpp/share/example_service_rclcpp/cmake/example_service_rclcppConfig-version.cmake
+[2.157s] -- Up-to-date: /home/yy/ros2_learning/service_cpp/install/example_service_rclcpp/share/example_service_rclcpp/package.xml
+[2.157s] -- Installing: /home/yy/ros2_learning/service_cpp/install/example_service_rclcpp/lib/example_service_rclcpp/service_server_01
+[2.157s] -- Set runtime path of "/home/yy/ros2_learning/service_cpp/install/example_service_rclcpp/lib/example_service_rclcpp/service_server_01" to ""
+[2.157s] -- Up-to-date: /home/yy/ros2_learning/service_cpp/install/example_service_rclcpp/lib/example_service_rclcpp/service_client_01
+[2.159s] Invoked command in '/home/yy/ros2_learning/service_cpp/build/example_service_rclcpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/yy/ros2_learning/service_cpp/build/example_service_rclcpp

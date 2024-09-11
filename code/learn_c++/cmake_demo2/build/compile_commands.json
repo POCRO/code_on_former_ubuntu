@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yy/code/learn_c++/cmake_demo2/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/cmake_demo2.dir/main.cpp.o -c /home/yy/code/learn_c++/cmake_demo2/main.cpp",
+  "file": "/home/yy/code/learn_c++/cmake_demo2/main.cpp"
+}
+]

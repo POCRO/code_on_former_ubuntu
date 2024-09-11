@@ -1,0 +1,10 @@
+/home/yy/ros2_learning/my_helloworld/build/pkg_my_hello_world_cpp/CMakeFiles/uninstall.dir
+/home/yy/ros2_learning/my_helloworld/build/pkg_my_hello_world_cpp/CMakeFiles/pkg_my_hello_world_cpp_uninstall.dir
+/home/yy/ros2_learning/my_helloworld/build/pkg_my_hello_world_cpp/CMakeFiles/my_helloworld.dir
+/home/yy/ros2_learning/my_helloworld/build/pkg_my_hello_world_cpp/CMakeFiles/test.dir
+/home/yy/ros2_learning/my_helloworld/build/pkg_my_hello_world_cpp/CMakeFiles/edit_cache.dir
+/home/yy/ros2_learning/my_helloworld/build/pkg_my_hello_world_cpp/CMakeFiles/rebuild_cache.dir
+/home/yy/ros2_learning/my_helloworld/build/pkg_my_hello_world_cpp/CMakeFiles/list_install_components.dir
+/home/yy/ros2_learning/my_helloworld/build/pkg_my_hello_world_cpp/CMakeFiles/install.dir
+/home/yy/ros2_learning/my_helloworld/build/pkg_my_hello_world_cpp/CMakeFiles/install/local.dir
+/home/yy/ros2_learning/my_helloworld/build/pkg_my_hello_world_cpp/CMakeFiles/install/strip.dir

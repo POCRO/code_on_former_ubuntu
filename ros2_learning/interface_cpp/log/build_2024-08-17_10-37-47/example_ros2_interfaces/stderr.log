@@ -1,0 +1,3 @@
+[0mCMake Error: The source directory "/home/yy/ros2_learning/interface_cpp/example_ros2_interfaces" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.[0m
+gmake: *** [Makefile:1179：cmake_check_build_system] 错误 1

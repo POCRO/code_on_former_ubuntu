@@ -1,0 +1,22 @@
+[35m[1mConsolidate compiler generated dependencies of target my_helloworld[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/my_helloworld.dir/src/my_helloworld.cpp.o[0m
+[100%] [32m[1mLinking CXX executable my_helloworld[0m
+[100%] Built target my_helloworld
+-- Install configuration: ""
+-- Installing: /home/yy/ros2_learning/my_helloworld/install/pkg_my_hello_world_cpp/lib/pkg_my_hello_world_cpp/my_helloworld
+-- Set runtime path of "/home/yy/ros2_learning/my_helloworld/install/pkg_my_hello_world_cpp/lib/pkg_my_hello_world_cpp/my_helloworld" to ""
+-- Installing: /home/yy/ros2_learning/my_helloworld/install/pkg_my_hello_world_cpp/share/ament_index/resource_index/package_run_dependencies/pkg_my_hello_world_cpp
+-- Installing: /home/yy/ros2_learning/my_helloworld/install/pkg_my_hello_world_cpp/share/ament_index/resource_index/parent_prefix_path/pkg_my_hello_world_cpp
+-- Installing: /home/yy/ros2_learning/my_helloworld/install/pkg_my_hello_world_cpp/share/pkg_my_hello_world_cpp/environment/ament_prefix_path.sh
+-- Installing: /home/yy/ros2_learning/my_helloworld/install/pkg_my_hello_world_cpp/share/pkg_my_hello_world_cpp/environment/ament_prefix_path.dsv
+-- Installing: /home/yy/ros2_learning/my_helloworld/install/pkg_my_hello_world_cpp/share/pkg_my_hello_world_cpp/environment/path.sh
+-- Installing: /home/yy/ros2_learning/my_helloworld/install/pkg_my_hello_world_cpp/share/pkg_my_hello_world_cpp/environment/path.dsv
+-- Installing: /home/yy/ros2_learning/my_helloworld/install/pkg_my_hello_world_cpp/share/pkg_my_hello_world_cpp/local_setup.bash
+-- Installing: /home/yy/ros2_learning/my_helloworld/install/pkg_my_hello_world_cpp/share/pkg_my_hello_world_cpp/local_setup.sh
+-- Installing: /home/yy/ros2_learning/my_helloworld/install/pkg_my_hello_world_cpp/share/pkg_my_hello_world_cpp/local_setup.zsh
+-- Installing: /home/yy/ros2_learning/my_helloworld/install/pkg_my_hello_world_cpp/share/pkg_my_hello_world_cpp/local_setup.dsv
+-- Up-to-date: /home/yy/ros2_learning/my_helloworld/install/pkg_my_hello_world_cpp/share/pkg_my_hello_world_cpp/package.dsv
+-- Installing: /home/yy/ros2_learning/my_helloworld/install/pkg_my_hello_world_cpp/share/ament_index/resource_index/packages/pkg_my_hello_world_cpp
+-- Installing: /home/yy/ros2_learning/my_helloworld/install/pkg_my_hello_world_cpp/share/pkg_my_hello_world_cpp/cmake/pkg_my_hello_world_cppConfig.cmake
+-- Installing: /home/yy/ros2_learning/my_helloworld/install/pkg_my_hello_world_cpp/share/pkg_my_hello_world_cpp/cmake/pkg_my_hello_world_cppConfig-version.cmake
+-- Installing: /home/yy/ros2_learning/my_helloworld/install/pkg_my_hello_world_cpp/share/pkg_my_hello_world_cpp/package.xml

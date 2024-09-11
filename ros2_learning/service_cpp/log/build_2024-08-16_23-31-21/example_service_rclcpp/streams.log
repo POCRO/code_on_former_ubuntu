@@ -1,0 +1,40 @@
+[0.007s] Invoking command in '/home/yy/ros2_learning/service_cpp/build/example_service_rclcpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/yy/ros2_learning/service_cpp/build/example_service_rclcpp -- -j12 -l12
+[0.026s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.101s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[0.116s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.117s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.120s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.126s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.132s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.150s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.150s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.207s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.234s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.276s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.276s] -- Configured cppcheck include dirs: 
+[0.276s] -- Configured cppcheck exclude dirs and/or files: 
+[0.277s] -- Added test 'lint_cmake' to check CMake code style
+[0.277s] -- Added test 'uncrustify' to check C / C++ code style
+[0.277s] -- Configured uncrustify additional arguments: 
+[0.277s] -- Added test 'xmllint' to check XML markup files
+[0.283s] -- Found example_interfaces: 0.9.3 (/opt/ros/humble/share/example_interfaces/cmake)
+[0.311s] [31mCMake Error at CMakeLists.txt:45 (add_executable):
+[0.311s]   add_executable cannot create target "service_client_01" because another
+[0.311s]   target with the same name already exists.  The existing target is an
+[0.311s]   executable created in source directory
+[0.311s]   "/home/yy/ros2_learning/service_cpp/src/example_service_rclcpp".  See
+[0.311s]   documentation for policy CMP0002 for more details.
+[0.311s] 
+[0.311s] [0m
+[0.311s] [31mCMake Error at CMakeLists.txt:48 (add_executable):
+[0.311s]   add_executable cannot create target "service_server_01" because another
+[0.311s]   target with the same name already exists.  The existing target is an
+[0.312s]   executable created in source directory
+[0.312s]   "/home/yy/ros2_learning/service_cpp/src/example_service_rclcpp".  See
+[0.312s]   documentation for policy CMP0002 for more details.
+[0.312s] 
+[0.312s] [0m
+[0.312s] -- Configuring incomplete, errors occurred!
+[0.312s] See also "/home/yy/ros2_learning/service_cpp/build/example_service_rclcpp/CMakeFiles/CMakeOutput.log".
+[0.315s] gmake: *** [Makefile:308：cmake_check_build_system] 错误 1
+[0.317s] Invoked command in '/home/yy/ros2_learning/service_cpp/build/example_service_rclcpp' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/yy/ros2_learning/service_cpp/build/example_service_rclcpp -- -j12 -l12

@@ -1,0 +1,48 @@
+[35m[1mConsolidate compiler generated dependencies of target topic_subscribe_01[0m
+[ 50%] Built target topic_publisher_01
+[ 75%] [32mBuilding CXX object CMakeFiles/topic_subscribe_01.dir/src/topic_subscribe_01.cpp.o[0m
+In file included from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/logging.hpp:24[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/client.hpp:40[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/callback_group.hpp:24[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/any_executable.hpp:20[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/memory_strategy.hpp:25[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/memory_strategies.hpp:18[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executor_options.hpp:20[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executor.hpp:37[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors/multi_threaded_executor.hpp:25[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors.hpp:21[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/rclcpp.hpp:155[m[K,
+                 from [01m[K/home/yy/ros2_learning/topic_cpp/src/example_topic_rclcpp/src/topic_subscribe_01.cpp:1[m[K:
+[01m[K/home/yy/ros2_learning/topic_cpp/src/example_topic_rclcpp/src/topic_subscribe_01.cpp:[m[K In member function ‘[01m[Kvoid TopicSubscribe01::command_callback(std_msgs::msg::String_<std::allocator<void> >::SharedPtr)[m[K’:
+[01m[K/home/yy/ros2_learning/topic_cpp/src/example_topic_rclcpp/src/topic_subscribe_01.cpp:26:45:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 6 has type ‘[01m[Kdouble[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wformat=-Wformat=]8;;[m[K]
+   26 |             RCLCPP_INFO(this->get_logger(), [01;35m[K"收到[%s]指令[%s]次,发送速度 %f"[m[K, msg->data.c_str(),[32m[Kcnt[m[K,speed);
+      |                                             [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K                    [32m[K~~~[m[K
+      |                                                                                                 [32m[K|[m[K
+      |                                                                                                 [32m[Kdouble[m[K
+[01m[K/home/yy/ros2_learning/topic_cpp/src/example_topic_rclcpp/src/topic_subscribe_01.cpp:26:60:[m[K [01;36m[Knote: [m[Kformat string is defined here
+   26 |             RCLCPP_INFO(this->get_logger(), "收到[%s]指令[[01;36m[K%s[m[K]次,发送速度 %f", msg->data.c_str(),cnt,speed);
+      |                                                           [01;36m[K~^[m[K
+      |                                                            [01;36m[K|[m[K
+      |                                                            [01;36m[Kchar*[m[K
+      |                                                           [32m[K%f[m[K
+[100%] [32m[1mLinking CXX executable topic_subscribe_01[0m
+[100%] Built target topic_subscribe_01
+-- Install configuration: ""
+-- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/ament_index/resource_index/package_run_dependencies/example_topic_rclcpp
+-- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/ament_index/resource_index/parent_prefix_path/example_topic_rclcpp
+-- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/environment/ament_prefix_path.sh
+-- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/environment/path.sh
+-- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/environment/path.dsv
+-- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/local_setup.bash
+-- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/local_setup.sh
+-- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/local_setup.zsh
+-- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/local_setup.dsv
+-- Installing: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/package.dsv
+-- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/ament_index/resource_index/packages/example_topic_rclcpp
+-- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/cmake/example_topic_rclcppConfig.cmake
+-- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/cmake/example_topic_rclcppConfig-version.cmake
+-- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/share/example_topic_rclcpp/package.xml
+-- Up-to-date: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/lib/example_topic_rclcpp/topic_publisher_01
+-- Installing: /home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/lib/example_topic_rclcpp/topic_subscribe_01
+-- Set runtime path of "/home/yy/ros2_learning/topic_cpp/install/example_topic_rclcpp/lib/example_topic_rclcpp/topic_subscribe_01" to ""

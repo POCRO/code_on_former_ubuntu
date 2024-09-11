@@ -1,0 +1,55 @@
+[0.006s] Invoking command in '/home/yy/ros2_learning/talksay/build/talksay_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/yy/ros2_learning/talksay/src/talksay_cpp -DCMAKE_INSTALL_PREFIX=/home/yy/ros2_learning/talksay/install/talksay_cpp
+[0.059s] -- The C compiler identification is GNU 11.4.0
+[0.106s] -- The CXX compiler identification is GNU 11.4.0
+[0.113s] -- Detecting C compiler ABI info
+[0.156s] -- Detecting C compiler ABI info - done
+[0.160s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.160s] -- Detecting C compile features
+[0.161s] -- Detecting C compile features - done
+[0.163s] -- Detecting CXX compiler ABI info
+[0.207s] -- Detecting CXX compiler ABI info - done
+[0.214s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.214s] -- Detecting CXX compile features
+[0.214s] -- Detecting CXX compile features - done
+[0.218s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.308s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.372s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[0.418s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.423s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.429s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.439s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.450s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.480s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.482s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.534s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.550s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.573s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.579s] -- Looking for pthread.h
+[0.623s] -- Looking for pthread.h - found
+[0.624s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.665s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.666s] -- Found Threads: TRUE  
+[0.705s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.752s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.752s] -- Configured cppcheck include dirs: 
+[0.752s] -- Configured cppcheck exclude dirs and/or files: 
+[0.752s] -- Added test 'lint_cmake' to check CMake code style
+[0.753s] -- Added test 'uncrustify' to check C / C++ code style
+[0.753s] -- Configured uncrustify additional arguments: 
+[0.753s] -- Added test 'xmllint' to check XML markup files
+[0.754s] -- Configuring done
+[0.756s] [31mCMake Error at CMakeLists.txt:26 (add_executable):
+[0.756s]   Cannot find source file:
+[0.756s] 
+[0.756s]     src/node_01.cpp
+[0.756s] 
+[0.756s]   Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+[0.756s]   .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+[0.756s] 
+[0.756s] [0m
+[0.756s] [31mCMake Error at CMakeLists.txt:26 (add_executable):
+[0.756s]   No SOURCES given to target: node_01
+[0.757s] 
+[0.757s] [0m
+[0.757s] [0mCMake Generate step failed.  Build files cannot be regenerated correctly.[0m
+[0.761s] Invoked command in '/home/yy/ros2_learning/talksay/build/talksay_cpp' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/yy/ros2_learning/talksay/src/talksay_cpp -DCMAKE_INSTALL_PREFIX=/home/yy/ros2_learning/talksay/install/talksay_cpp

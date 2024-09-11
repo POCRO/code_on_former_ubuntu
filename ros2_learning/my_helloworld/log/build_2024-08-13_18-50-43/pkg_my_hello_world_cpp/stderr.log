@@ -1,0 +1,9 @@
+[01m[K/home/yy/ros2_learning/my_helloworld/src/pkg_my_hello_world_cpp/src/my_helloworld.cpp:1:10:[m[K [01;31m[Kerror: [m[K#include expects "FILENAME" or <FILENAME>
+    1 | #include [01;31m[K"rclcpp/rclcpp.hpp"int[m[K main(int argc, char **argv)
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/yy/ros2_learning/my_helloworld/src/pkg_my_hello_world_cpp/src/my_helloworld.cpp:2:1:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K{[m[K’ token
+    2 | [01;31m[K{[m[K
+      | [01;31m[K^[m[K
+gmake[2]: *** [CMakeFiles/my_helloworld.dir/build.make:76：CMakeFiles/my_helloworld.dir/src/my_helloworld.cpp.o] 错误 1
+gmake[1]: *** [CMakeFiles/Makefile2:137：CMakeFiles/my_helloworld.dir/all] 错误 2
+gmake: *** [Makefile:146：all] 错误 2

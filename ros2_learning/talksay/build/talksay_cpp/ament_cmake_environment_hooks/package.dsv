@@ -1,0 +1,4 @@
+source;share/talksay_cpp/local_setup.bash
+source;share/talksay_cpp/local_setup.dsv
+source;share/talksay_cpp/local_setup.sh
+source;share/talksay_cpp/local_setup.zsh

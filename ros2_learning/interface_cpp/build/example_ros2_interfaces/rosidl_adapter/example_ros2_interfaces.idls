@@ -1,0 +1,3 @@
+/home/yy/ros2_learning/interface_cpp/build/example_ros2_interfaces/rosidl_adapter/example_ros2_interfaces:msg/RobotPose.idl
+/home/yy/ros2_learning/interface_cpp/build/example_ros2_interfaces/rosidl_adapter/example_ros2_interfaces:msg/RobotStatus.idl
+/home/yy/ros2_learning/interface_cpp/build/example_ros2_interfaces/rosidl_adapter/example_ros2_interfaces:srv/MoveRobot.idl

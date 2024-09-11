@@ -1,0 +1,10 @@
+/home/yy/code/hello_world/build/pkg_01_helloworld_cpp/CMakeFiles/uninstall.dir
+/home/yy/code/hello_world/build/pkg_01_helloworld_cpp/CMakeFiles/pkg_01_helloworld_cpp_uninstall.dir
+/home/yy/code/hello_world/build/pkg_01_helloworld_cpp/CMakeFiles/helloworld.dir
+/home/yy/code/hello_world/build/pkg_01_helloworld_cpp/CMakeFiles/test.dir
+/home/yy/code/hello_world/build/pkg_01_helloworld_cpp/CMakeFiles/edit_cache.dir
+/home/yy/code/hello_world/build/pkg_01_helloworld_cpp/CMakeFiles/rebuild_cache.dir
+/home/yy/code/hello_world/build/pkg_01_helloworld_cpp/CMakeFiles/list_install_components.dir
+/home/yy/code/hello_world/build/pkg_01_helloworld_cpp/CMakeFiles/install.dir
+/home/yy/code/hello_world/build/pkg_01_helloworld_cpp/CMakeFiles/install/local.dir
+/home/yy/code/hello_world/build/pkg_01_helloworld_cpp/CMakeFiles/install/strip.dir

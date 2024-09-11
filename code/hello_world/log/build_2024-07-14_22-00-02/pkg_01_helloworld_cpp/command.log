@@ -1,0 +1,4 @@
+Invoking command in '/home/yy/code/hello_world/build/pkg_01_helloworld_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/yy/code/hello_world/build/pkg_01_helloworld_cpp -- -j12 -l12
+Invoked command in '/home/yy/code/hello_world/build/pkg_01_helloworld_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/yy/code/hello_world/build/pkg_01_helloworld_cpp -- -j12 -l12
+Invoking command in '/home/yy/code/hello_world/build/pkg_01_helloworld_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/yy/code/hello_world/build/pkg_01_helloworld_cpp
+Invoked command in '/home/yy/code/hello_world/build/pkg_01_helloworld_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/yy/code/hello_world/build/pkg_01_helloworld_cpp

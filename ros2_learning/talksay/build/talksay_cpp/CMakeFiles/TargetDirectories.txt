@@ -1,0 +1,10 @@
+/home/yy/ros2_learning/talksay/build/talksay_cpp/CMakeFiles/uninstall.dir
+/home/yy/ros2_learning/talksay/build/talksay_cpp/CMakeFiles/talksay_cpp_uninstall.dir
+/home/yy/ros2_learning/talksay/build/talksay_cpp/CMakeFiles/node_01.dir
+/home/yy/ros2_learning/talksay/build/talksay_cpp/CMakeFiles/test.dir
+/home/yy/ros2_learning/talksay/build/talksay_cpp/CMakeFiles/edit_cache.dir
+/home/yy/ros2_learning/talksay/build/talksay_cpp/CMakeFiles/rebuild_cache.dir
+/home/yy/ros2_learning/talksay/build/talksay_cpp/CMakeFiles/list_install_components.dir
+/home/yy/ros2_learning/talksay/build/talksay_cpp/CMakeFiles/install.dir
+/home/yy/ros2_learning/talksay/build/talksay_cpp/CMakeFiles/install/local.dir
+/home/yy/ros2_learning/talksay/build/talksay_cpp/CMakeFiles/install/strip.dir

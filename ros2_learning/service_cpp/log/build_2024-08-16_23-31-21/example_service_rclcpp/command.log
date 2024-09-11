@@ -1,0 +1,2 @@
+Invoking command in '/home/yy/ros2_learning/service_cpp/build/example_service_rclcpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/yy/ros2_learning/service_cpp/build/example_service_rclcpp -- -j12 -l12
+Invoked command in '/home/yy/ros2_learning/service_cpp/build/example_service_rclcpp' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/yy/ros2_learning/service_cpp/build/example_service_rclcpp -- -j12 -l12
